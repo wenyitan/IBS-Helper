@@ -10,7 +10,7 @@ function App() {
         <Navbar />
       </div>
       <Routes>
-        <Route path="/" element={<IbsHelper />} />
+        <Route path="/IBS-Helper" element={<IbsHelper />} />
       </Routes>
     </Router>
   );
