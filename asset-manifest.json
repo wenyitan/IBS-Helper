@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IBS-Helper/static/css/main.073c9b0a.css",
+    "main.js": "/IBS-Helper/static/js/main.e9292f9b.js",
+    "static/js/787.efe9ab71.chunk.js": "/IBS-Helper/static/js/787.efe9ab71.chunk.js",
+    "index.html": "/IBS-Helper/index.html",
+    "main.073c9b0a.css.map": "/IBS-Helper/static/css/main.073c9b0a.css.map",
+    "main.e9292f9b.js.map": "/IBS-Helper/static/js/main.e9292f9b.js.map",
+    "787.efe9ab71.chunk.js.map": "/IBS-Helper/static/js/787.efe9ab71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e9292f9b.js"
+  ]
+}
