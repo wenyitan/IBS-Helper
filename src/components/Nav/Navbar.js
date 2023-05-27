@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <Box sx={{ flexGrow: 1 }}>
         <AppBar elevation={5} position="static" sx={{background:""}}>
-            <Toolbar>
+            <Toolbar sx={{display: "flex", alignItems: "center", justifyContent: "center"}}>
                 {navMenuItems.map((item, key) => {
                     return (
                         <NavItem key={key} item={item} />
